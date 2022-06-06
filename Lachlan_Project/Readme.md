@@ -1,5 +1,5 @@
 # Gravity Field Generator
-This directory contains all the necessary software to generate an solution to the Earth's gravity field. The field solutionsa are generated using the pyshtools package, and can utilise any .gfc file containing spherical harmonic coefficients.
+This directory contains all the necessary software to generate an solution to the Earth's gravity field. The field solutions are generated using the pyshtools package, and can utilise any .gfc file containing spherical harmonic coefficients.
 
 The three functions contained within perform three seperate actions.
 1. The first function outputs the spherical harmonic degree, and a guide to computational time for the input coefficient file
